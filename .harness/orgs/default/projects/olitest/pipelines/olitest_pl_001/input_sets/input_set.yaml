@@ -1,6 +1,7 @@
 inputSet:
-  name: input set
-  identifier: input_set
+  name: input set - playtika main
+  tags: {}
+  identifier: input_set001
   orgIdentifier: default
   projectIdentifier: olitest
   pipeline:
